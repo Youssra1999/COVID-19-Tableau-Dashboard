@@ -26,4 +26,5 @@ Explore COVID-19 trends interactively. This Tableau dashboard visualizes cases, 
 
 ## License
 
-This repository is open-source under [License Name]. Feel free to use, modify, and share while adhering to the license terms.
+This repository is open-source under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use, modify, and share while adhering to the license terms.
+
