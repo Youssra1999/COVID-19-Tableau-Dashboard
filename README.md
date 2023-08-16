@@ -1,4 +1,6 @@
 COVID-19 Data Visualization Dashboard
+
+
 Welcome to the COVID-19 Data Visualization Dashboard repository! This project aims to provide a comprehensive and insightful visualization of the COVID-19 pandemic's impact through interactive Tableau visualizations. Explore trends, patterns, and key insights from the pandemic's data with user-friendly visualizations that offer a deeper understanding of the situation.
 
 Dashboard Highlights:
