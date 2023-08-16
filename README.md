@@ -2,7 +2,7 @@
 
 Explore COVID-19 trends interactively. This Tableau dashboard visualizes cases, deaths, recoveries, and vaccination data, offering insights into the global pandemic's impact. Stay informed through dynamic data analysis.
 
-[Link to Interactive Dashboard](#)   <!-- Replace with your actual dashboard link -->
+[https://prod-ca-a.online.tableau.com/t/datawhizyoussra/views/CovidDashboard/Tableaudebord1/b3de0b0a-dcfe-4b60-96d6-dd0970fb18db/61083df9-41d4-4f0d-a176-76a7ba56d426(#)   <!-- Replace with your actual dashboard link -->
 
 ## Highlights
 
